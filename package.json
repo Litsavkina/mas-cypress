@@ -1,0 +1,25 @@
+{
+  "name": "mas-cypress",
+  "version": "1.0.0",
+  "description": "Marina Labonte MAS cypress technical assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Litsavkina/mas-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Litsavkina/mas-cypress/issues"
+  },
+  "homepage": "https://github.com/Litsavkina/mas-cypress#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.5.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
